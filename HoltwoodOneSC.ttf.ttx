@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="HoltwoodOneSC.ttf.GlyphOrder.ttx"/>
+  <head src="HoltwoodOneSC.ttf._h_e_a_d.ttx"/>
+  <hhea src="HoltwoodOneSC.ttf._h_h_e_a.ttx"/>
+  <maxp src="HoltwoodOneSC.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="HoltwoodOneSC.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="HoltwoodOneSC.ttf._h_m_t_x.ttx"/>
+  <cmap src="HoltwoodOneSC.ttf._c_m_a_p.ttx"/>
+  <prep src="HoltwoodOneSC.ttf._p_r_e_p.ttx"/>
+  <cvt src="HoltwoodOneSC.ttf._c_v_t.ttx"/>
+  <loca src="HoltwoodOneSC.ttf._l_o_c_a.ttx"/>
+  <glyf src="HoltwoodOneSC.ttf._g_l_y_f.ttx"/>
+  <name src="HoltwoodOneSC.ttf._n_a_m_e.ttx"/>
+  <post src="HoltwoodOneSC.ttf._p_o_s_t.ttx"/>
+  <gasp src="HoltwoodOneSC.ttf._g_a_s_p.ttx"/>
+  <FFTM src="HoltwoodOneSC.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="HoltwoodOneSC.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="HoltwoodOneSC.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="HoltwoodOneSC.ttf.G_S_U_B_.ttx"/>
+</ttFont>
